@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**lauani11/lauani11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lauani Santos
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https:www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você entrar em contato comigo
+
+vieira.lauani@escola.pr.gov.br
+
+@lauani.sants
+
+![](https://media1.tenor.com/m/6L8z0F4mdYAAAAAC/peppa-funny.gif)
